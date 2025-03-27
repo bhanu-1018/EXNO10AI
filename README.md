@@ -1,6 +1,6 @@
 # EXNO10AI
 Logic Programming –  Simple queries from facts and rules
-### DATE:  02-10-2024                                                                          
+### DATE:  19/02/2025                                                                         
 ### REGISTER NUMBER : 212221060180
 ### AIM: 
 To write a prolog program to find the answer of query. 
